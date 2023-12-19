@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @snailsqz btw i'm beginner
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++,Python
 - 📫 How to reach me @snailsitinig
 
 <!---
