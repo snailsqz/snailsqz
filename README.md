@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snailsqz btw i'm beginner
+- 👋 Hi, I’m snails
 - 👀 I’m interested in coding
 - 📫 How to reach me @snailsitinig
 
