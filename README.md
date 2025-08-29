@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pawee Indulakshana and I'm a wannabe AI Engineer from Bangkok</p>
+<h4 align="left">My name is Pawee Indulakshana and I'm a wannabe AI Engineer from Bangkok</h4>
 
 ###
 
