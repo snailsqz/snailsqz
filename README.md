@@ -1,12 +1,17 @@
-<h1 align="left">Hello World!</h1>
+# 👋 Welcome to Pawee’s Dev Space
 
-###
+> “Want to build cool things, making mistakes, burnout.”
 
-<h4 align="left">My name is Pawee Indulakshana and I'm the lowest junior AI Engineer from Bangkok</h4>
+---
 
-###
+## Who Am I?
 
-<h2 align="left">Now i code with</h2>
+**Hi, I’m Pawee Indulakshana.**  
+Junior AI Engineer based in Bangkok, Thailand. Fascinated by AI, machine learning, and web tech
+
+---
+
+<h2 align="left">Tech Playground</h2>
 
 ###
 
